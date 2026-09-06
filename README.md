@@ -1,16 +1,58 @@
-## Hi there 👋
+# Ananda Mohite | Solutions Architect & Technical PreSales
 
-<!--
-**mqucred/mqucred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Azure Solutions Architect Expert & PreSales Specialist** | **Stack:** AZ-305, SC-100, AZ-700, AZ-500, SC-300, AZ-104  
+> *Architecting Zero-Trust Enterprise Landing Zones, AVD Infrastructures, and High-Performance Cloud Architectures.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Core Technical Stack & Capabilities
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,linux,redhat,powershell,bash" alt="Core Technologies" />
+  </a>
+</p>
+
+| Domain | Core Technologies & Architecture Focus |
+| :--- | :--- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="22" height="22" valign="middle"/> **Cloud & EUC** | Azure Virtual Desktop (AVD) • Nerdio Manager Enterprise • FSLogix Profiles • Azure NetApp Files |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="22" height="22" valign="middle"/> **Networking & DR** | BGP Dynamic Routing (Azure Route Server) • Private Link Services • Private DNS Resolver • Azure Site Recovery (ASR) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="22" height="22" valign="middle"/> **Security & Identity** | Microsoft Entra ID • Privileged Identity Management (PIM) • Conditional Access • Azure Key Vault • RBAC |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="22" height="22" valign="middle"/> **Automation & IaC** | Bicep / ARM Templates • PowerShell Automation • Bash Scripting • Linux System Administration |
+
+---
+
+## 🏅 Verified Microsoft Certifications
+
+- 🛡️ **Microsoft Certified: Cybersecurity Architect Expert** (`SC-100`)
+- 🏗️ **Microsoft Certified: Azure Solutions Architect Expert** (`AZ-305`)
+- 🌐 **Microsoft Certified: Azure Network Engineer Associate** (`AZ-700`)
+- 🔒 **Microsoft Certified: Azure Security Engineer Associate** (`AZ-500`)
+- 🔑 **Microsoft Certified: Identity and Access Administrator Associate** (`SC-300`)
+- ⚙️ **Microsoft Certified: Azure Administrator Associate** (`AZ-104`)
+
+---
+
+## 🏛️ Featured Architecture & PreSales Case Studies
+
+| Case Study Repository | Architectural Focus | Credentials Mapped | Business Impact / Pitch |
+| :--- | :--- | :--- | :--- |
+| **[Zero-Trust Enterprise Landing Zone](./)** | BGP Dynamic Routing via Azure Route Server, Private Link Services, Private DNS Resolver, Entra PIM, and Traffic Analytics. | `SC-100` `AZ-305` `AZ-700` `AZ-500` `SC-300` | Eliminates static UDR operational overhead and provides isolated cross-boundary service consumption without opening full VNet peering. |
+| **[Nerdio Enterprise AVD Architecture](./)** | High-IOPS profiles via Azure NetApp Files, FSLogix Cloud Cache, MSIX App Attach, and automated cost-scaling rules. | `AZ-305` `AZ-104` `SC-300` | Optimizes EUC storage latencies and dynamically reduces compute spend outside active business hours. |
+| **[Multi-Region Hybrid DR & Network Routing](./)** | Dual-region VNet infrastructure, Azure Site Recovery (ASR) vaults, automated failover scripts, and Front Door/Traffic Manager redirection. | `AZ-700` `AZ-305` `AZ-104` | Delivers enterprise business continuity guaranteeing an **RTO < 15 minutes** and **RPO < 5 minutes** during regional outages. |
+
+---
+
+## 📊 PreSales & Commercial Competencies
+
+- **RFP/RFI/SOW Scoping:** Technical response authoring, architecture diagramming, and Statement of Work (SOW) drafting for enterprise proposals.
+- **Cost Estimation & BOM Generation:** Designing cost-effective Bill of Materials (BOM) utilizing Azure Pricing Calculator and Azure Migrate data.
+- **Proof-of-Concept (POC) Execution:** Building hands-on validation environments and technical solution demonstrations for key stakeholders.
+- **Client Discovery:** Facilitating technical discovery sessions to translate business constraints into Cloud Adoption Framework (CAF) aligned landing zones.
+
+---
+
+## 📬 Connect & Collaborate
+
+- **LinkedIn:** [linkedin.com/in/anandamohite](https://www.linkedin.com)
+- **Role Target:** Cloud Solutions Architect / Technical PreSales Architect (12–18 LPA)
