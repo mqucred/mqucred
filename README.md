@@ -9,13 +9,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,linux,redhat,powershell,bash" alt="Core Technologies" />
+    <img src="https://skillicons.dev/icons?i=azure,linux,powershell,bash" alt="Core Technologies" />
   </a>
 </p>
 
 | Domain | Core Technologies & Architecture Focus |
 | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="22" height="22" valign="middle"/> **Cloud & EUC** | Azure Virtual Desktop (AVD) • Nerdio Manager Enterprise • FSLogix Profiles • Azure NetApp Files |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="22" height="22" valign="middle"/> **Cloud & EUC** | Azure Virtual Desktop (AVD)  • FSLogix Profiles • Azure NetApp Files |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="22" height="22" valign="middle"/> **Networking & DR** | BGP Dynamic Routing (Azure Route Server) • Private Link Services • Private DNS Resolver • Azure Site Recovery (ASR) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="22" height="22" valign="middle"/> **Security & Identity** | Microsoft Entra ID • Privileged Identity Management (PIM) • Conditional Access • Azure Key Vault • RBAC |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="22" height="22" valign="middle"/> **Automation & IaC** | Bicep / ARM Templates • PowerShell Automation • Bash Scripting • Linux System Administration |
@@ -24,24 +24,16 @@
 
 ## 🏅 Verified Microsoft Certifications
 
-- 🛡️ **Microsoft Certified: Cybersecurity Architect Expert** (`SC-100`)
-- 🏗️ **Microsoft Certified: Azure Solutions Architect Expert** (`AZ-305`)
-- 🌐 **Microsoft Certified: Azure Network Engineer Associate** (`AZ-700`)
-- 🔒 **Microsoft Certified: Azure Security Engineer Associate** (`AZ-500`)
-- 🔑 **Microsoft Certified: Identity and Access Administrator Associate** (`SC-300`)
-- ⚙️ **Microsoft Certified: Azure Administrator Associate** (`AZ-104`)
+🛡️ Microsoft Certified: Cybersecurity Architect Expert (SC-100)
+🏗️ Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
+🌐 Microsoft Certified: Azure Network Engineer Associate (AZ-700)
+🔒 Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+🚨 Microsoft Certified: Security Operations Analyst Associate (SC-200)
+🔑 Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+⚙️ Microsoft Certified: Azure Administrator Associate (AZ-104)
+🖥️ Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)
 
----
 
-## 🏛️ Featured Architecture & PreSales Case Studies
-
-| Case Study Repository | Architectural Focus | Credentials Mapped | Business Impact / Pitch |
-| :--- | :--- | :--- | :--- |
-| **[Zero-Trust Enterprise Landing Zone](./)** | BGP Dynamic Routing via Azure Route Server, Private Link Services, Private DNS Resolver, Entra PIM, and Traffic Analytics. | `SC-100` `AZ-305` `AZ-700` `AZ-500` `SC-300` | Eliminates static UDR operational overhead and provides isolated cross-boundary service consumption without opening full VNet peering. |
-| **[Nerdio Enterprise AVD Architecture](./)** | High-IOPS profiles via Azure NetApp Files, FSLogix Cloud Cache, MSIX App Attach, and automated cost-scaling rules. | `AZ-305` `AZ-104` `SC-300` | Optimizes EUC storage latencies and dynamically reduces compute spend outside active business hours. |
-| **[Multi-Region Hybrid DR & Network Routing](./)** | Dual-region VNet infrastructure, Azure Site Recovery (ASR) vaults, automated failover scripts, and Front Door/Traffic Manager redirection. | `AZ-700` `AZ-305` `AZ-104` | Delivers enterprise business continuity guaranteeing an **RTO < 15 minutes** and **RPO < 5 minutes** during regional outages. |
-
----
 
 ## 📊 PreSales & Commercial Competencies
 
@@ -54,5 +46,5 @@
 
 ## 📬 Connect & Collaborate
 
-- **LinkedIn:** [linkedin.com/in/anandamohite](https://www.linkedin.com)
-- **Role Target:** Cloud Solutions Architect / Technical PreSales Architect (12–18 LPA)
+- **LinkedIn:** (www.linkedin.com/in/ananda-mohite-1198a555)
+- **Role Target:** Cloud Solutions Architect / Technical PreSales Architect / AVD
